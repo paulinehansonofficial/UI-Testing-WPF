@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid x:Name="check_box">
-        <Button x:Name="best_button" Content="Start" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="283,66,0,0" Click="best_button_Click"/>
+        <Button x:Name="worst_button" Content="Start" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="283,66,0,0" Click="best_button_Click"/>
         <ProgressBar x:Name="prog_bar" HorizontalAlignment="Left" Height="10" Margin="269,163,0,0" VerticalAlignment="Top" Width="100" Minimum="100" Maximum="10000"/>
         <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="325,265,0,0" VerticalAlignment="Top"/>
 

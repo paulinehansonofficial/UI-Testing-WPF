@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWPFApplication", "SimpleWPFApplication\SimpleWPFApplication.csproj", "{957E813F-6A5C-422C-BEF2-534D79E8A004}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodedUITestProject", "CodedUITestProject\CodedUITestProject.csproj", "{7D6BEB0A-093E-4C48-86B2-67C7268BCC2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{957E813F-6A5C-422C-BEF2-534D79E8A004}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{957E813F-6A5C-422C-BEF2-534D79E8A004}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{957E813F-6A5C-422C-BEF2-534D79E8A004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D6BEB0A-093E-4C48-86B2-67C7268BCC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D6BEB0A-093E-4C48-86B2-67C7268BCC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D6BEB0A-093E-4C48-86B2-67C7268BCC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D6BEB0A-093E-4C48-86B2-67C7268BCC2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
